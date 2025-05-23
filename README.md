@@ -25,14 +25,6 @@ Built to strengthen DOM manipulation, event handling, and game logic implementat
 
 ---
 
-## 🖥️ Game Preview
-
-> 📷 Replace with your own screenshot or GIF
-
-![Game Screenshot](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
-
----
-
 ## 🗂️ Project Structure
 
 ```bash
